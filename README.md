@@ -7,3 +7,5 @@ This repository contains project work from a DSA 2 course taken at The Cooper Un
 "Programming-Assignment-2-Heap" - this folder contains project work that involved creating a heap (priority queue) & testing it with a manipulator program.
 
 "Programming-Assignment-3-Dijkstra" - this folder contains project work that involved implementing Dijkstra's algorithm using both the heap and hash table that were previously created for the first two assignments. Dijkstra's algorithm solves the single source, shortest path problem for positive edge weights.
+
+"Programming-Assignment-4- Dynamic Programming" - this folder contains project work that implements a dynamic programming solution to a problem from the 1998 regional ACM Programming Contest.
